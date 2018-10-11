@@ -83,8 +83,13 @@ section p, section h3 {
   padding: 5px;
   margin-bottom: 5px;
   background-color: white;
+  height: auto;
 }
 
 .comment:hover {
   background-color: cyan;
+}
+
+.hideShow {
+  display: none;
 }
